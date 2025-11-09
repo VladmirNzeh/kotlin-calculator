@@ -17,4 +17,4 @@ This project demonstrates Kotlin fundamentals such as functions, conditionals, l
  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/kotlin-calculator.git
+   git clone https://github.com/VladmirNzeh/kotlin-calculator.git
