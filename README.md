@@ -18,3 +18,4 @@ This project demonstrates Kotlin fundamentals such as functions, conditionals, l
 1. Clone this repository:
    ```bash
    git clone https://github.com/VladmirNzeh/kotlin-calculator.git
+   Here is a Youtube video link https://youtu.be/u3BZPYFgemM?si=9V_7krOa3_PFD78R 
